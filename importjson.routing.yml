@@ -1,0 +1,7 @@
+importjson.routing:
+  path: '/import/json'
+  defaults:
+   _controller: '\Drupal\importjson\Controller\MainController::test'
+   _title: 'Importando JSON'
+  requirements:
+   _permission: 'access content'

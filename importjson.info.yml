@@ -1,0 +1,5 @@
+name: Import JSON
+type: module
+description: 'Este modulo importará de un json e insertará en un nodo'
+version: '8.x-1.1'
+core: '8.x'
